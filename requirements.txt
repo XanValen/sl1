@@ -6,6 +6,5 @@ pandas
 rich<14,>=10.14.0
 markdown-it-py<4
 mdurl<0.2
-cv2
 PIL
 requests
